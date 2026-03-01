@@ -1,4 +1,4 @@
-# AuraLink---Crowd-Sourced-Network-for-FMO-Find-My-Object-
+# AuraLink - Crowd Sourced Network for FMO (Find My Object)
 
 Daftar detail sistem **Crowd-Sourced (OpenHaystack/Find My)** yang telah kita diskusikan untuk proyek pelacak hewan/barang Anda. Sistem ini sangat efektif karena bersifat global, tanpa biaya bulanan (gratis), dan hemat energi.
 
